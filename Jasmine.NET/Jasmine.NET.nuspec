@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>JasmineNET</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>renbinatgit</authors>
+    <owners>renbinatgit</owners>
+    <licenseUrl>https://github.com/renbinatgit/jasmine.net</licenseUrl>
+    <projectUrl>https://github.com/renbinatgit/jasmine.net</projectUrl>
+    <iconUrl>http://null</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides similar Behavior-Driven test coding experience as the known Jasmine JavaScript test framework.</description>
+    <releaseNotes>Provides similar Behavior-Driven test coding experience as the known Jasmine JavaScript test framework. </releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Jasmine Behavior-Driven</tags>
+  </metadata>
+</package>
